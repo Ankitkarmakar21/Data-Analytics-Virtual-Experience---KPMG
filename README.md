@@ -5,5 +5,5 @@ Assessment of data quality and completeness in preparation for analysis
 TASK 2 - Data Insights
 Targeting high value customers based on customer demographics and attributes.
 
-Data Insights and Presentation
+TASK 3 - Data Insights and Presentation
 Using visualisations to present insights
