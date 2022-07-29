@@ -1,9 +1,9 @@
 # Data-Analytics-Virtual-Experience---KPMG
-TASK 1 - Data Quality Assessment
+TASK 1 - Data Quality Assessment: 
          Assessment of data quality and completeness in preparation for analysis
 
-TASK 2 - Data Insights
+TASK 2 - Data Insights: 
          Targeting high value customers based on customer demographics and attributes.
 
-TASK 3 - Data Insights and Presentation
+TASK 3 - Data Insights and Presentation: 
          Using visualisations to present insights
